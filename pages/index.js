@@ -11,7 +11,7 @@ const Home = () => {
       <main>
         <section className={`hero ${styles.hero}`}>
           <h1>Welcome to My Portfolio</h1>
-          <p>My name is Fauzia Nyale, Hold on i see a bug!..Oh it' not a bug it's a feature</p>
+          <p>My name is Fauzia Nyale, Hold on I see a bug!..Oh it is not a bug it is a feature</p>
           <div>
             <Image
               src="/images/kanyau.jpg"
